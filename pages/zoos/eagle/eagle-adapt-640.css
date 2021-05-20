@@ -1,0 +1,30 @@
+@media all and (max-width: 640px) {
+  .eagle__svg-ico {
+    width: 40px;
+		height: 30px;
+  }
+  .container	{
+    max-width: 542px;
+  }
+  .zoos__questionnaire-eagle-btn {
+    left: 395px;
+    bottom: -23px;
+  }
+  .zoos__questionnaire-container-img {
+    order: 1;
+    flex: 0 1 600px;
+    height: 600px;
+  }
+  .footer__button,
+  .footer-social {
+	margin-right: 0;
+}
+  .footer__logos,
+.copyright {
+	margin-left: 0;
+}
+.footer__container-adapt {
+	max-width: 100%;
+  margin: 0;
+}
+}

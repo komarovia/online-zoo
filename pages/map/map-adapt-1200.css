@@ -1,0 +1,60 @@
+@media all and (max-width: 1200px) {
+
+	.map {
+		max-width: 100%;
+  	padding-top: 30px;
+	}
+	.map__area {
+		height: 777px;
+	
+		position: relative;
+		margin-top: 17px;
+		background: url(../../assets/images/map/map.svg) center/contain no-repeat;
+	}
+	.map__marker-panda {
+		top: 36.41%;
+		right: 24.5%;
+	}
+	.map__marker-eagle {
+		top: 40.3%;
+		left: 10.5%;
+	}
+	.map__marker-alligator {
+		top: 42.8%;
+		left: 20.5%;
+	}
+	.map__marker-lion {
+		top: 46.3%;
+		left: 40.2%;
+	}
+	.map__marker-gorilla {
+		top: 49.5%;
+		right: 43%;
+	}
+	.map__marker-lemur {
+		top: 62.3%;
+		right: 35.5%;
+	}
+	.map__marker-tiger {
+		top: 54.5%;
+		right: 20.5%;
+	}
+	.map__marker-coala {
+		top: 65.5%;
+		right: 11%;
+	}
+	.footer {
+		margin-top: 94px;
+	}
+	.container {
+		max-width: 100%;
+	}
+	.footer__logos,
+.copyright {
+	margin-left: 40px;
+}
+.footer__button,
+.footer-social {
+	margin-right: 40px;
+}
+}

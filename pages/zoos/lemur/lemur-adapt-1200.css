@@ -1,0 +1,56 @@
+@media all and (max-width: 1200px) {
+  .aside__card-circle-lemur {
+    cursor: default !important;
+    background-color: transparent;
+    box-shadow: none;
+  }
+  .lemur__img-ico {
+    display: none;
+  }
+  .lemur__svg-ico {
+    display: block;
+  }
+	.video__description-heading-lemur {
+		padding-right: 180px;
+	}
+	.donation__line-adapt-lemur {
+		padding: 29px 40px;
+	}
+	.donation__line-heading-lemur {
+		max-width: 645px;
+	}
+	.donation__line-text_zoos-lemur {
+		padding-top: 10px;
+	}
+	.zoos__description-adapt-lemur {
+		padding: 30px 0 60px 0;
+	}
+	.zoos__questionnaire-adapt-lemur {
+		height: 734px;
+	}
+  .zoos__questionnaire-container-img {
+    flex: 0 1 455px;
+    height: 455px;
+  }
+  .zoos__questionnaire-img {
+    max-width: 100%;
+    height: 100%;
+  }
+  .zoos__footer-lemur {
+    margin-top: 100px;
+  }
+	.footer {
+		margin-top: 100px;
+	}
+	.container {
+		max-width: 100%;
+	}
+	.footer__logos,
+.copyright {
+	margin-left: 40px;
+}
+.footer__button,
+.footer-social {
+	margin-right: 40px;
+}
+}

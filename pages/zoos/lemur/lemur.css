@@ -1,0 +1,23 @@
+.video__description-heading-lemur {
+  padding-right: 257px;
+}
+.aside__card-circle-lemur {
+  cursor: default !important;
+  background-color: #fff;
+  box-shadow: 0 0 0 6px #20113d, 0 0 0 9px #fff;
+}
+.lemur__svg-ico {
+  display: none;
+}
+.zoos__questionnaire-lemur-btn {
+  position: absolute;
+  right: 110px;
+  bottom: -23px;
+}
+.additional__zoos-bg-lemur {
+  margin-top: -1685px;
+	height: 252px;
+}
+.zoos__footer-lemur {
+  margin-top: 1436px;
+}

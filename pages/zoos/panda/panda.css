@@ -1,0 +1,27 @@
+.aside__card-circle-panda {
+  cursor: default !important;
+  background-color: #fff;
+  box-shadow: 0 0 0 6px #20113d, 0 0 0 9px #fff;
+}
+.panda__svg-ico {
+  display: none;
+}
+.zoos__questionnaire-panda-btn {
+  position: absolute;
+  right: 140px;
+  bottom: -23px;
+}
+.additional__zoos-bg-panda {
+  margin-top: -1655px;
+  height: 252px;
+}
+.donation__line-text_zoos-panda {
+  max-width: 873px;
+}
+.zoos__footer-panda {
+  margin-top: 1396px;
+}
+.aside__card-circle-panda-open {
+  background-color: transparent;
+  box-shadow: none;
+}

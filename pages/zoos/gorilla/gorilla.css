@@ -1,0 +1,24 @@
+.aside__card-circle-gorilla {
+	cursor: default !important;
+	background-color: #fff;
+	box-shadow: 0 0 0 6px #20113d, 0 0 0 9px #fff;
+}
+.gorilla__svg-ico {
+  display: none;
+}
+.zoos__questionnaire-gorilla-btn {
+	position: absolute;
+	right: 80px;
+	bottom: -23px;
+}
+.additional__zoos-bg-gorilla {
+	margin-top: -1659px;
+	height: 226px;
+}
+.zoos__footer-gorilla {
+	margin-top: 1480px;
+}
+.aside__card-circle-gorilla-open {
+  background-color: transparent;
+  box-shadow: none;
+}

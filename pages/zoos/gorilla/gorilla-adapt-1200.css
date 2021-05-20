@@ -1,0 +1,48 @@
+@media all and (max-width: 1230px) {
+  .aside__card-circle-gorilla {
+    cursor: default !important;
+    background-color: transparent;
+    box-shadow: none;
+  }
+  .gorilla__img-ico {
+    display: none;
+  }
+  .gorilla__svg-ico {
+    display: block;
+  }
+  .zoos__questionnaire-container-img {
+    flex: 0 1 455px;
+    height: 455px;
+  }
+  .zoos__questionnaire-img {
+    max-width: 100%;
+    height: 100%;
+  }
+  .zoos__footer-gorilla {
+    margin-top: 100px;
+  }
+  .footer {
+		margin-top: 100px;
+	}
+	.container {
+		max-width: 100%;
+	}
+	.footer__logos,
+.copyright {
+	margin-left: 40px;
+}
+.footer__button,
+.footer-social {
+	margin-right: 40px;
+}
+}
+
+@media all and (max-width: 1024px) {
+
+  .zoos__questionnaire-gorilla-btn {
+    left: 0;
+    bottom: -75px;
+  }
+
+  
+}

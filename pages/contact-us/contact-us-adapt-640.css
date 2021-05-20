@@ -1,0 +1,48 @@
+@media all and (max-width: 640px) {
+	.main {
+		max-width: 640px;
+	}
+.container {
+	max-width: 640px;
+	overflow: hidden;
+}
+	.contact__img-container {
+		margin-top: 110px;
+		height: 434px;
+	}
+	.contact__img {
+		height: 100%;
+	}
+	.feedback__wrapper {
+max-width: 93.75%;
+margin: 50px auto 0;
+overflow: hidden;
+}
+.feedback__form_container {
+  flex: 0 1 739px;
+	max-width: 100%;
+	margin-top: 37px;
+
+}
+.feedback__discription_container {
+	flex: 0 1 258px;
+}
+.contact-us__heading {
+	margin-right: 0;
+}
+.contact-us__text {
+  margin-top: 17px;
+}
+.contact-us__form_submit {
+  margin: 52px auto 0;
+	padding-left: 53px;
+	padding-right: 53px;
+}
+.footer__logos,
+.footer__button,
+.footer-social,
+.copyright {
+	margin: 0;
+}
+
+}

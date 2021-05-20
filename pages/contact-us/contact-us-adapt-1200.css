@@ -1,0 +1,53 @@
+@media all and (max-width: 1200px) {
+	.main {
+		max-width: 1200px;
+	}
+.container {
+	max-width: 1200px;
+	overflow: hidden;
+}
+.contact__img {
+	height: 815px;
+	object-fit: cover;
+}
+.feedback__wrapper {
+max-width: 835px;
+margin: 50px 142px 0 223px;
+	flex-direction: column;
+}
+.feedback__discription_container {
+	margin: 0 auto;
+	text-align: center;
+	flex: 0 1 205px;
+}
+.contact-us__heading {
+	margin-right: 90px;
+}
+.contact-us__text {
+  max-width: 100%;
+  margin-top: 30px;
+}
+.feedback__form_container {
+  flex: 0 1 618px;
+	max-width: 740px;
+	margin-top: 50px;
+}
+.contact-us__form_input {
+  margin: 8px 0 30px 0;
+}
+.contact-us__form_submit {
+  margin-top: 50px;
+}
+.footer {
+	margin-top: 100px;
+}
+.footer__logos,
+.copyright {
+	margin-left: 40px;
+}
+.footer__button,
+.footer-social {
+	margin-right: 40px;
+}
+
+}

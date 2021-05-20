@@ -1,0 +1,27 @@
+.aside__card-circle-eagle {
+  cursor: default !important;
+  background-color: #fff;
+  box-shadow: 0 0 0 6px #20113d, 0 0 0 9px #fff;
+}
+.eagle__svg-ico {
+  display: none;
+}
+.additional__zoos-bg-eagle {
+  margin-top: -1771px;
+	height: 252px;
+}
+.zoos__questionnaire-eagle {
+  margin-top: 170px;
+}
+.zoos__questionnaire-eagle-btn {
+  position: absolute;
+  bottom: -23px;
+  right: -15px;
+}
+.zoos__footer-eagle {
+  margin-top: 1504px;
+}
+.aside__card-circle-eagle-open {
+  background-color: transparent;
+  box-shadow: none;
+}

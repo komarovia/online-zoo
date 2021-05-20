@@ -1,0 +1,80 @@
+@media all and (max-width: 910px) {
+	.header_burger {
+		left: -6px;
+	}
+
+	.map__title {
+		margin: 110px auto 70px auto;
+		font-size: 2.625rem;
+    line-height: 51px;
+	}
+	.map__area {
+		height: 415px;
+		margin: 0 auto;
+	}
+
+	.map__marker {
+		width: 7%;
+		height: 60px;
+		background: url(../../assets/images/map/disactive-tag-bg-small.svg) center center
+    no-repeat;
+		filter: drop-shadow(0px 2.10553px 15.7915px rgba(245, 128, 33, 0.7));
+	}
+	.map__marker:hover {
+		background: url(../../assets/images/map/active-tag-bg-1-small.svg) center center
+				no-repeat,
+			url(../../assets/images/map/active-tag-bg-2-small.svg) center center no-repeat;
+			filter: drop-shadow(0px 2.13642px 16.0232px rgba(245, 128, 33, 0.7));
+	}
+	.map__marker-static {
+		width: 7%;
+		height: 60px;
+		background: url(../../assets/images/map/disactive-tag-bg-small.svg) center center
+			no-repeat;
+		filter: drop-shadow(0px 2.10553px 15.7915px rgba(245, 128, 33, 0.7));
+	}
+	.map__marker-img {
+		margin: 10px auto 0 auto;
+		max-width: 24px;
+		max-height: 20px;
+	}
+	.map__marker-panda {
+		top: 40.41%;
+		right: 25.5%;
+	}
+	.map__marker-eagle {
+		top: 41.3%;
+		left: 11%;
+	}
+	.map__marker-alligator {
+		top: 44.8%;
+		left: 20.5%;
+	}
+	.map__marker-lion {
+		top: 50.3%;
+		left: 41.2%;
+	}
+	.map__marker-gorilla {
+		top: 52.5%;
+		right: 44%;
+	}
+	.map__marker-lemur {
+		top: 66.3%;
+		right: 36.5%;
+	}
+	.map__marker-tiger {
+		top: 58.5%;
+		right: 20.8%;
+	}
+	.map__marker-coala {
+		top: 68.5%;
+		right: 13.5%;
+	}
+	.footer__logos,
+	.footer__button,
+	.footer-social,
+	.copyright {
+		margin: 0;
+	}
+
+}
