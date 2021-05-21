@@ -336,7 +336,7 @@ input[type="number"] {
   margin: 0 auto;
 }
 .slider__drop {
-  width: 175px;
+  width: 170px;
   height: 100%;
   border: 1px solid transparent;
   position: absolute;
@@ -378,11 +378,10 @@ input[type="number"] {
 .card__container {
   position: relative;
   display: flex;
-  gap: 42px;
   padding: 50px 0;
-  max-width: 1400px;
+  flex: 0 0 1400px;
   border-radius: 5px;
-  margin: 0 auto;
+  padding-left: 195px;
   transition: 0.3s;
 }
 .card__block {

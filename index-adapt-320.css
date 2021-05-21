@@ -33,7 +33,7 @@
 	}
 
   .main__landing {
-    max-width: 320px;
+    max-width: 100%;
   }
   .main__background {
     min-height: 766px;
@@ -75,8 +75,12 @@
     margin-top: 50px;
   }
 	.description__img {
-		flex: 0 1 218px;
-		height: 218px;
+		flex: 0 0 218px;
+		height: auto;
+		max-width: 100%;
+	}
+	.description__img img {
+	height: auto;
 	}
 	.description__inscription {
 		max-width: 93.75%;
@@ -96,7 +100,7 @@ overflow: hidden;
   }
 	.description__bird-img {
 		flex: 0 1 213px;
-		height: 213px;
+		height: auto;
 	}
   .description__heading-second {
 		padding: 0;
@@ -127,6 +131,7 @@ overflow: hidden;
 	flex-direction: column;
 	flex: 0 1 100%;
 	max-width: 100%;
+	margin-bottom: 40px;
 }
 .donation__line-input-submit {
 	width: 100%;
@@ -164,7 +169,7 @@ overflow: hidden;
 		flex: 0 0 300px;
 	}
 	.card__container {
-		grid-template-columns: 300px 300px 300px 300px 300px 300px 300px 300px;
+		margin-left: 10px;
 	}
 	.card__image {
 		border-radius: 5px 5px 0 0;
